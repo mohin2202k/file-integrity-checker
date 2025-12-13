@@ -1,0 +1,40 @@
+body {
+  font-family: system-ui, sans-serif;
+  background: #0f172a;
+  color: #e5e7eb;
+}
+
+.container {
+  max-width: 600px;
+  margin: 60px auto;
+  padding: 24px;
+  background: #020617;
+  border-radius: 10px;
+  border: 1px solid white;
+}
+
+section {
+  margin-bottom: 20px;
+}
+
+textarea, input {
+  width: 90%;
+  padding: 10px;
+  margin-top: 8px;
+  background: #020617;
+  color: #e5e7eb;
+  border: 1px solid #334155;
+  border-radius: 6px;
+}
+
+button {
+  margin-top: 10px;
+  padding: 5px; 
+}
+
+.subtitle {
+  font-size: 0.9rem;
+  color: #94a3b8;
+  margin-bottom: 20px;
+}
+
